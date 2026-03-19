@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="phone-data-collector",
+    name="pointall",
     version="1.0.1",
     description="Pydroid için telefon verisi toplama kütüphanesi",
     author="Your Name",
