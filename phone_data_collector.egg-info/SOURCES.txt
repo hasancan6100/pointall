@@ -1,0 +1,12 @@
+MANIFEST.in
+README.md
+requirements.txt
+setup.py
+phone_data_collector/__init__.py
+phone_data_collector/collector.py
+phone_data_collector/telegram_sender.py
+phone_data_collector.egg-info/PKG-INFO
+phone_data_collector.egg-info/SOURCES.txt
+phone_data_collector.egg-info/dependency_links.txt
+phone_data_collector.egg-info/requires.txt
+phone_data_collector.egg-info/top_level.txt

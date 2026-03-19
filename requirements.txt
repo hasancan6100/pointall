@@ -1,0 +1,3 @@
+python-telegram-bot==20.3
+android==6.0.1  # Pydroid için
+aiofiles==23.2.1
