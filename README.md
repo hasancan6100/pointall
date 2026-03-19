@@ -1,0 +1,2 @@
+# pointall
+Tüm Puan Checker
