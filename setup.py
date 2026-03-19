@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="phone-data-collector",
-    version="0.1.0",
+    version="1.0.1",
     description="Pydroid için telefon verisi toplama kütüphanesi",
     author="Your Name",
     packages=find_packages(),
